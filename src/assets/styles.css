@@ -1,0 +1,523 @@
+#header {
+    background-color: #0e0b14;
+    height: 3950px;
+    position: relative;
+}
+
+#headerimg {
+    width: 1183px;
+}
+
+#login {
+    width: 73px;
+    height: 42px;
+    border: 1px solid white;
+    background-color: rgb(43, 41, 41);
+    color: white;
+    position: absolute;
+    top: 5px;
+    left: 90%;
+    right: 5%;
+    margin: 5px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#disneyplus1 {
+    width: 160px;
+    height: 90px;
+    position: absolute;
+    left: 7%;
+    right: 90%;
+    top: 2%;
+}
+
+#main1 {
+    color: white;
+    position: absolute;
+    left: 7%;
+    right: 90%;
+    top: 4%;
+    font-size: xx-large;
+    width: 400px;
+}
+
+#main2 {
+    color: white;
+    position: absolute;
+    left: 7%;
+    right: 90%;
+    top: 6.8%;
+    font-size: 14px;
+    width: 300px;
+}
+
+#email {
+    position: absolute;
+    left: 7%;
+    top: 7.9%;
+    width: 280px;
+    height: 16px;
+    background-color: rgb(49, 47, 47);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 11px;
+    border-radius: 2px;
+    color: rgb(114, 109, 109);
+    border: 8px solid rgb(49, 47, 47);
+}
+
+#sub {
+    position: absolute;
+    left: 31%;
+    top: 7.9%;
+    width: 100px;
+    height: 16px;
+    background-color: rgb(44, 60, 227);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 11px;
+    border-radius: 2px;
+    border: 8px solid rgb(44, 60, 227);
+}
+
+#main3 {
+    position: absolute;
+    left: 7%;
+    top: 8.5%;
+    color: white;
+    font-size: 17px;
+}
+
+#main4 {
+    position: absolute;
+    left: 7%;
+    top: 9.5%;
+    color: white;
+    font-size: 11px;
+}
+
+#bar {
+    width: 50%;
+    color: rgb(49, 47, 47);
+    position: absolute;
+    top: 12%;
+    left: 25%;
+}
+
+#barex1 {
+    position: absolute;
+    left: 49.1%;
+    top: 12.3%;
+    color: rgb(179, 173, 173);
+    font-size: 11px;
+}
+
+#barex2 {
+    position: absolute;
+    left: 47%;
+    top: 12.65%;
+    color: rgb(179, 173, 173);
+    font-size: 11px;
+}
+
+#contents1 {
+    color: white;
+    position: absolute;
+    top: 95%;
+    left: 42.5%;
+    font-size: 40px;
+}
+
+#contents1_1 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 105%;
+    left: 7%;
+}
+
+#contents1_2 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 105%;
+    left: 36.4%;
+}
+
+#contents1_3 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 105%;
+    right: 7%;
+}
+
+#contents1_4 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 142%;
+    left: 7%;
+}
+
+#contents1_5 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 142%;
+    left: 36.4%;
+}
+
+#contents1_6 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 142%;
+    right: 7%;
+}
+
+#contents1_7 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 179%;
+    left: 7%;
+}
+
+#contents1_8 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 179%;
+    left: 36.4%;
+}
+
+#contents1_9 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 179%;
+    right: 7%;
+}
+
+#plus1 {
+    display: flex;
+    position: absolute;
+    top: 230%;
+    left: 7%;
+    color: white;
+}
+
+.plus1_1 {
+    display: flex;
+    width: 260px;
+    text-align: center;
+    justify-content: space-evenly;
+    border: 5px;
+    font-size: 26px;
+}
+
+#plus2 {
+    display: flex;
+    position: absolute;
+    top: 245%;
+    left: 7%;
+    color: white;
+}
+
+.plus2_1 {
+    display: flex;
+    margin-right: 15px;
+    width: 250px;
+    text-align: center;
+    justify-content: space-evenly;
+    color: rgb(179, 173, 173);
+    font-size: large;
+}
+
+#division {
+    display: flex;
+    color: white;
+    font-size: 80px;
+    position: absolute;
+    top: 223%;
+    left: 26%;
+    letter-spacing: 190px;
+}
+
+#leftex1 {
+    font-size: 38px;
+    position: absolute;
+    top: 300%;
+    left: 7%;
+    color: white;
+}
+
+#leftex2 {
+    position: absolute;
+    top: 320%;
+    left: 7%;
+    color: rgb(179, 173, 173);
+    font-size: 17px;
+}
+
+#avatar {
+    position: absolute;
+    top: 280%;
+    right: 7%;
+    width: 530px;
+    height: 420px;
+}
+
+#contents2ex_1 {
+    color: white;
+    position: absolute;
+    top: 370%;
+    left: 27%;
+    font-size: 38px;
+}
+
+#contents2ex_2 {
+    color: rgb(179, 173, 173);
+    font-size: 19px;
+    position: absolute;
+    top: 384%;
+    left: 8.5%;
+}
+
+#contents2_1 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 395%;
+    left: 7%;
+}
+
+#contents2_2 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 395%;
+    left: 36.4%;
+}
+
+#contents2_3 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 395%;
+    right: 7%;
+}
+
+#contents2_4 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 432%;
+    left: 7%;
+}
+
+#contents2_5 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 432%;
+    left: 36.4%;
+}
+
+#contents2_6 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 432%;
+    right: 7%;
+}
+
+#contents2_7 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 469%;
+    left: 7%;
+}
+
+#contents2_8 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 469%;
+    left: 36.4%;
+}
+
+#contents2_9 {
+    width: 330px;
+    height: 200px;
+    border-radius: 3px;
+    position: absolute;
+    top: 469%;
+    right: 7%;
+}
+
+#bottom1 {
+    color: white;
+    position: absolute;
+    top: 522%;
+    left: 41%;
+    font-size: 38px;
+}
+
+#bottom2_1 {
+    color: white;
+    width: 990px;
+    height: 30px;
+    background-color: rgb(31, 30, 37);
+    position: absolute;
+    top: 535%;
+    left: 7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 20px;
+    border: 20px solid rgb(31, 30, 37);
+}
+
+#bottom2_2 {
+    color: white;
+    width: 990px;
+    height: 30px;
+    background-color: rgb(31, 30, 37);
+    position: absolute;
+    top: 549%;
+    left: 7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 20px;
+    border: 20px solid rgb(31, 30, 37);
+}
+
+#bottom2_3 {
+    color: white;
+    width: 990px;
+    height: 30px;
+    background-color: rgb(31, 30, 37);
+    position: absolute;
+    top: 563%;
+    left: 7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 20px;
+    border: 20px solid rgb(31, 30, 37);
+}
+
+#bottom2_4 {
+    color: white;
+    width: 990px;
+    height: 30px;
+    background-color: rgb(31, 30, 37);
+    position: absolute;
+    top: 577%;
+    left: 7%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 20px;
+    border: 20px solid rgb(31, 30, 37);
+}
+
+#pluss {
+    position: absolute;
+    right: 9%;
+    top: 534%;
+    font-size: 45px;
+    color: white;
+    line-height: 40px;
+}
+
+#disneyplus2 {
+    width: 75px;
+    height: 40px;
+    position: absolute;
+    left: 47%;
+    right: 90%;
+    top: 610%;
+}
+
+#language {
+    background-color: #0e0b14;
+    color: rgb(179, 173, 173);
+    border-style: none;
+    font-size: 12px;
+    position: absolute;
+    top: 620%;
+    left: 17%;
+}
+
+#footer1 {
+    display: flex;
+    position: absolute;
+    top: 620%;
+    left: 23%;
+    right: 16%;
+    color: rgb(179, 173, 173);
+    text-align: center;
+    justify-content: space-between;
+}
+
+.footer2 {
+    margin: 2px;
+    color: rgb(179, 173, 173);
+    font-size: 12px;
+}
+
+#footer3 {
+    font-size: 12px;
+    color: rgb(179, 173, 173);
+    position: absolute;
+    top: 623%;
+    left: 45%;
+}
+
+#footer4 {
+    position: absolute;
+    top: 630%;
+    left: 13%;
+    font-size: 12px;
+    color: rgb(179, 173, 173);
+    text-align: center;
+}
+
+#footer5 {
+    position: absolute;
+    top: 640%;
+    left: 38%;
+    font-size: 12px;
+    color: rgb(179, 173, 173);
+    text-align: center;
+}
